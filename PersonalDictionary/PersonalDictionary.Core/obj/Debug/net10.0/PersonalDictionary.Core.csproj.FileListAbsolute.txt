@@ -1,0 +1,11 @@
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\bin\Debug\net10.0\PersonalDictionary.Core.deps.json
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\bin\Debug\net10.0\PersonalDictionary.Core.dll
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\bin\Debug\net10.0\PersonalDictionary.Core.pdb
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\obj\Debug\net10.0\PersonalDictionary.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\obj\Debug\net10.0\PersonalDictionary.Core.AssemblyInfoInputs.cache
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\obj\Debug\net10.0\PersonalDictionary.Core.AssemblyInfo.cs
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\obj\Debug\net10.0\PersonalDictionary.Core.csproj.CoreCompileInputs.cache
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\obj\Debug\net10.0\PersonalDictionary.Core.dll
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\obj\Debug\net10.0\refint\PersonalDictionary.Core.dll
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\obj\Debug\net10.0\PersonalDictionary.Core.pdb
+C:\Users\m.maximov\Desktop\c#\PersonalDictionary\PersonalDictionary.Core\obj\Debug\net10.0\ref\PersonalDictionary.Core.dll

@@ -1,0 +1,77 @@
+[
+  {
+    "Word": "кошка",
+    "Translation": "cat",
+    "Category": "animals-russian"
+  },
+  {
+    "Word": "собака",
+    "Translation": "Dog",
+    "Category": "animals-russian"
+  },
+  {
+    "Word": "лошадь",
+    "Translation": "Equus",
+    "Category": "animals-russian"
+  },
+  {
+    "Word": "корова",
+    "Translation": "корова",
+    "Category": "animals-russian"
+  },
+  {
+    "Word": "овца",
+    "Translation": "Domestic sheep",
+    "Category": "animals-russian"
+  },
+  {
+    "Word": "коза",
+    "Translation": "Goat",
+    "Category": "animals-russian"
+  },
+  {
+    "Word": "кролик",
+    "Translation": "rabbit",
+    "Category": "animals-russian"
+  },
+  {
+    "Word": "медведь",
+    "Translation": "bear",
+    "Category": "animals-russian"
+  },
+  {
+    "Word": "лиса",
+    "Translation": "fox",
+    "Category": "animals-russian"
+  },
+  {
+    "Word": "волк",
+    "Translation": "wolf",
+    "Category": "animals-russian"
+  },
+  {
+    "Word": "cat",
+    "Translation": "cat",
+    "Category": "animals-english"
+  },
+  {
+    "Word": "лошадь",
+    "Translation": "horse",
+    "Category": "animals-english"
+  },
+  {
+    "Word": "-ва",
+    "Translation": "cow",
+    "Category": "animals-english"
+  },
+  {
+    "Word": "овца",
+    "Translation": "sheep",
+    "Category": "animals-english"
+  },
+  {
+    "Word": "козий,",
+    "Translation": "goat",
+    "Category": "animals-english"
+  }
+]
